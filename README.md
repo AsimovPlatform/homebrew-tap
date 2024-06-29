@@ -1,18 +1,23 @@
-# AsimovPlatform Tap
+# Homebrew Tap for Asimov AI
 
-## How do I install these formulae?
+This repository contains Asimov AI's public Homebrew formulas.
 
-`brew install asimovplatform/tap/<formula>`
+## Prerequisites
 
-Or `brew tap asimovplatform/tap` and then `brew install <formula>`.
+- [Homebrew](https://brew.sh)
 
-Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
+## Configuration
 
-```ruby
-tap "asimovplatform/tap"
-brew "<formula>"
+Firstly, install the tap with:
+
+```bash
+brew tap AsimovPlatform/tap git@github.com:AsimovPlatform/homebrew-tap.git
 ```
 
-## Documentation
+## Installation
 
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+TBD
+
+## Troubleshooting
+
+See [Homebrew's documentation](https://docs.brew.sh) in case of trouble.
