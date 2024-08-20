@@ -1,6 +1,7 @@
-# Homebrew Tap for Asimov AI
+# Homebrew Tap for ASIMOV Platform
 
-This repository contains Asimov AI's public Homebrew formulas.
+This repository contains public Homebrew formulas for the
+[ASIMOV Platform].
 
 ## Prerequisites
 
@@ -8,10 +9,10 @@ This repository contains Asimov AI's public Homebrew formulas.
 
 ## Configuration
 
-Firstly, install the tap with:
+Firstly, register this tap in your local Homebrew installation with:
 
 ```bash
-brew tap AsimovPlatform/tap git@github.com:AsimovPlatform/homebrew-tap.git
+brew tap AsimovPlatform/tap
 ```
 
 ## Installation
@@ -20,4 +21,6 @@ TBD
 
 ## Troubleshooting
 
-See [Homebrew's documentation](https://docs.brew.sh) in case of trouble.
+See [Homebrew's documentation](https://docs.brew.sh) in case of any trouble.
+
+[ASIMOV Platform]: https://github.com/AsimovPlatform
