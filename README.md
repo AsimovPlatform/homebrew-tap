@@ -17,10 +17,15 @@ brew tap AsimovPlatform/tap
 
 ## Installation
 
-TBD
+### Install [Protoflow]
+
+```bash
+brew install protoflow --HEAD
+```
 
 ## Troubleshooting
 
 See [Homebrew's documentation](https://docs.brew.sh) in case of any trouble.
 
 [ASIMOV Platform]: https://github.com/AsimovPlatform
+[Protoflow]:       https://github.com/AsimovPlatform/protoflow
